@@ -3,10 +3,9 @@
 __version__ = "0.1.0"
 
 from test_coordinator_data_adapter.config import AdapterConfig
-from test_coordinator_data_adapter.factory import TestCoordinatorDataAdapter, create_adapter
+from test_coordinator_data_adapter.factory import AdapterFactory
 
 __all__ = [
     "AdapterConfig",
-    "TestCoordinatorDataAdapter",
-    "create_adapter",
+    "AdapterFactory",
 ]
