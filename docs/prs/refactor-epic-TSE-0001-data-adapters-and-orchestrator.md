@@ -2,7 +2,7 @@
 
 **Epic:** TSE-0001.4 - Data Adapters and Orchestrator Integration
 **Component:** test-coordinator-data-adapter-py
-**Branch:** `refactor/epic-TSE-0001.4-data-adapters-and-orchestrator`
+**Branch:** `refactor/epic-TSE-0001-data-adapters-and-orchestrator`
 **Status:** ✅ Ready for Merge
 **Last Updated:** 2025-10-06
 
