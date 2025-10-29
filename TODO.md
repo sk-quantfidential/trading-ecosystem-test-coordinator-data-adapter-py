@@ -51,6 +51,11 @@
 
 ## Pending Tasks
 
+### Standardize Validation Scripts
+- [ ] Replace all validate-all.sh with standardized version
+- [ ] Replace symlinks with actual file copies
+- [ ] Remove validate-repository.sh (deprecated)
+
 ### Foundation Setup (Post-TSE-0001)
 - [ ] Initialize Python package structure
 - [ ] Add protocol buffer definitions
